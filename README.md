@@ -17,7 +17,7 @@ You can find [examples of JavaScript and TypeScript Click here](https://github.c
 
 ## Installation
 ```bash
-npm install amazon-mws --save
+npm install @dropbug/amazon-mws --save
 ```
 
 ## Test Cases
